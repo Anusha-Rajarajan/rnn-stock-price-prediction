@@ -22,6 +22,7 @@ Load the stock dataset.
 Fit the model and then predict.
 
 ## PROGRAM
+~~~
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -75,6 +76,7 @@ plt.xlabel('Time')
 plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
+~~~
 
 ## OUTPUT
 
